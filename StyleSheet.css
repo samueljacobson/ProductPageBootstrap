@@ -1,2 +1,19 @@
 ﻿body {
+    padding-top:70px;
+}
+/*Navbar styling*/
+#logo {
+    height:30px;
+    width:90px;
+    padding:0;
+}
+/*a.navbar-brand {
+    height:90px;
+}*/
+nav.navbar.navbar-default.navbar-fixed-top {
+   /*height:90px;*/
+   background-color:blue;
+}
+nav.navbar.navbar-default.navbar-fixed-top a {
+    color:yellow;
 }
